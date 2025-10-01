@@ -1,0 +1,61 @@
+{
+  "aum": {
+    "value": 12.19,
+    "unit": "Cr",
+    "mom": 0.77
+  },
+  "sip": {
+    "value": 1.39,
+    "unit": "Lakh",
+    "mom": 0.0
+  },
+  "stats": {
+    "purchases": { "count": 0, "amount": 0.0 },
+    "redemptions": { "count": 0, "amount": 0.0 },
+    "rejectedTransactions": { "count": 0, "amount": 0.0 },
+    "sipRejections": { "count": 0, "amount": 0.0 },
+    "newSip": { "count": 0, "amount": 0.0 }
+  },
+  "clients": [
+    { "name": "Online", "value": 2, "color": "green" },
+    { "name": "New", "value": 60, "color": "orange" },
+    { "name": "Active", "value": 541, "color": "red" },
+    { "name": "Inactive", "value": 3824, "color": "darkred" }
+  ],
+  "sipBusiness": [
+    { "month": "Mar", "amount": 2.3, "count": 120 },
+    { "month": "Apr", "amount": 1.8, "count": 110 },
+    { "month": "May", "amount": 2.1, "count": 105 },
+    { "month": "Jun", "amount": 2.0, "count": 95 }
+  ],
+  "monthlyMIS": [
+    {
+      "month": "Mar",
+      "aum": 0.4,
+      "sip": 0.2,
+      "other": 0.1,
+      "redemptions": 0.05
+    },
+    {
+      "month": "Apr",
+      "aum": 0.6,
+      "sip": 0.3,
+      "other": 0.2,
+      "redemptions": 0.1
+    },
+    {
+      "month": "May",
+      "aum": 0.5,
+      "sip": 0.25,
+      "other": 0.15,
+      "redemptions": 0.08
+    },
+    {
+      "month": "Jun",
+      "aum": 0.45,
+      "sip": 0.28,
+      "other": 0.18,
+      "redemptions": 0.07
+    }
+  ]
+}
